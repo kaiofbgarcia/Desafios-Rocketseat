@@ -1,4 +1,4 @@
-# 💻 Desafio Iniciante - Corrigindo Bugs (02) **👀**
+# 🚀 Desafio Iniciante - Corrigindo Bugs (02) **👀**
 
 ## Sobre o desafio
 
